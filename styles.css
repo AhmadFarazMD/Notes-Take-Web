@@ -14,6 +14,7 @@
 }
 
 body {
+    background-image: url('img3.jpg');
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.6;
     background-color: var(--background-color);
@@ -21,7 +22,7 @@ body {
 }
 
 nav {
-    background-color: white;
+    background-color: rgb(202, 195, 169);
     padding: 1rem 2rem;
     display: flex;
     justify-content: space-between;
